@@ -4,6 +4,12 @@
 **Institution:** All India Institute of Ayurveda (AIIA), New Delhi  
 **Domain:** Clinical Trial Management System (CTMS), Ayurveda Research, Clinical Research Analytics, and National Pharmacovigilance Coordination Centre (NPvCC) for ASU&H Drugs.
 
+
+> **🌐 LIVE PUBLIC DEPLOYMENT (VERIFIED):**  
+> **Production URL:** [https://ayutrial-ctms.vercel.app](https://ayutrial-ctms.vercel.app)  
+> **Deployment Status:** `READY` (Vercel Global Edge Network)  
+> **Evaluator Quick Access:** Instant 1-click RBAC persona switcher on top header bar (No password required in demo mode)
+
 ---
 
 ## 🏛️ Executive Product Overview
