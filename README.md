@@ -61,8 +61,8 @@ Crucially, the platform serves as the digital apex for the **National Pharmacovi
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/aiia-ctms.git
-cd aiia-ctms
+git clone https://github.com/DuvvuruDeepakReddy18/AyuTrial.git
+cd AyuTrial
 
 # Install dependencies
 npm install
